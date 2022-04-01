@@ -1,0 +1,15 @@
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Tiedostotehtäviä\bin\Debug\net5.0\Tiedosto.exe
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Tiedostotehtäviä\bin\Debug\net5.0\Tiedosto.deps.json
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Tiedostotehtäviä\bin\Debug\net5.0\Tiedosto.runtimeconfig.json
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Tiedostotehtäviä\bin\Debug\net5.0\Tiedosto.runtimeconfig.dev.json
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Tiedostotehtäviä\bin\Debug\net5.0\Tiedosto.dll
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Tiedostotehtäviä\bin\Debug\net5.0\ref\Tiedosto.dll
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Tiedostotehtäviä\bin\Debug\net5.0\Tiedosto.pdb
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Tiedostotehtäviä\obj\Debug\net5.0\Tiedosto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Tiedostotehtäviä\obj\Debug\net5.0\Tiedosto.AssemblyInfoInputs.cache
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Tiedostotehtäviä\obj\Debug\net5.0\Tiedosto.AssemblyInfo.cs
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Tiedostotehtäviä\obj\Debug\net5.0\Tiedosto.csproj.CoreCompileInputs.cache
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Tiedostotehtäviä\obj\Debug\net5.0\Tiedosto.dll
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Tiedostotehtäviä\obj\Debug\net5.0\ref\Tiedosto.dll
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Tiedostotehtäviä\obj\Debug\net5.0\Tiedosto.pdb
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Tiedostotehtäviä\obj\Debug\net5.0\Tiedosto.genruntimeconfig.cache

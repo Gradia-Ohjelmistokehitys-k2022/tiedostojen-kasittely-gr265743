@@ -1,0 +1,15 @@
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Testi\obj\Debug\net5.0\Testi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Testi\obj\Debug\net5.0\Testi.AssemblyInfoInputs.cache
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Testi\obj\Debug\net5.0\Testi.AssemblyInfo.cs
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Testi\obj\Debug\net5.0\Testi.csproj.CoreCompileInputs.cache
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Testi\bin\Debug\net5.0\Testi.exe
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Testi\bin\Debug\net5.0\Testi.deps.json
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Testi\bin\Debug\net5.0\Testi.runtimeconfig.json
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Testi\bin\Debug\net5.0\Testi.runtimeconfig.dev.json
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Testi\bin\Debug\net5.0\Testi.dll
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Testi\bin\Debug\net5.0\ref\Testi.dll
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Testi\bin\Debug\net5.0\Testi.pdb
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Testi\obj\Debug\net5.0\Testi.dll
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Testi\obj\Debug\net5.0\ref\Testi.dll
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Testi\obj\Debug\net5.0\Testi.pdb
+C:\Users\tommy\OneDrive\Python\Tiedostonkäsittely\tiedostojen-kasittely-gr265743\Testi\obj\Debug\net5.0\Testi.genruntimeconfig.cache
